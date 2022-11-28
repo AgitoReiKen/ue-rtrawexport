@@ -1,0 +1,2 @@
+"X:\Epic Games\UE_5.1\Engine\Build\BatchFiles\RunUAT.bat" BuildPlugin -Plugin="X:/Repositories/Games/Playground/Plugins/RTRawExport/RTRawExport.uplugin" -Package="X:/Repositories/Games/Playground/Plugins/RTRawExport/Binaries/Win64" -Rocket
+pause
